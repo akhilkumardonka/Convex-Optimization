@@ -1,4 +1,4 @@
-# Convex-Optimization | IIT Hyderabad (EE606)
+# Convex-Optimization | IIT Hyderabad (EE5606)
 Optimization problems and CVXPY solutions
 
 1. Lamp illuminaiton problem 
